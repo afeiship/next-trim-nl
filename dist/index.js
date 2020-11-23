@@ -3,7 +3,7 @@
  * description: Trim enter/return char.
  * homepage: https://github.com/afeiship/next-trim-nl
  * version: 1.0.0
- * date: 2020-11-24 07:35:37
+ * date: 2020-11-24 07:36:15
  * license: MIT
  */
 
