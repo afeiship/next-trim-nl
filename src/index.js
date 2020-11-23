@@ -1,8 +1,8 @@
-(function() {
+(function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
-  nx.trimNl = function(inString) {
+  nx.trimNl = function (inString) {
     if (!inString) return inString;
     return inString.replace(/[\r\n]/g, '');
   };
