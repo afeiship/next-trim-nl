@@ -2,8 +2,8 @@
  * name: @jswork/next-trim-nl
  * description: Trim enter/return char.
  * homepage: https://github.com/afeiship/next-trim-nl
- * version: 1.0.0
- * date: 2020-11-24 07:36:15
+ * version: 1.0.1
+ * date: 2021-01-09 16:17:15
  * license: MIT
  */
 
